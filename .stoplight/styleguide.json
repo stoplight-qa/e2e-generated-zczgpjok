@@ -1,0 +1,31 @@
+{
+  "name": "E2e Generated Zczgpjok",
+  "description": "",
+  "spectralExtends": [],
+  "extends": [
+    "cHJqOjIyNg"
+  ],
+  "formats": [
+    "oas2",
+    "oas3",
+    "oas3.0",
+    "oas3.1"
+  ],
+  "aliases": {},
+  "rules": {},
+  "extendedStyleguides": [
+    {
+      "id": "cHJqOjIyNg",
+      "name": "Awesome Steel Ball",
+      "slug": "seeded-awesome-steel-ball-xw7xc",
+      "workspace": {
+        "slug": "seeded-enterprise",
+        "name": "seeded-enterprise"
+      },
+      "latestRelease": {
+        "release": 1
+      }
+    }
+  ],
+  "extendedDefault": true
+}
